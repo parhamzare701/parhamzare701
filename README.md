@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Twitter](https://twitter.com/parhamzare701)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... 😀
--->
