@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... JavaScript
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Twitter account] (https://twitter.com/parhamzare701)
+- 📫 How to reach me: ... [Twitter](https://twitter.com/parhamzare701)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... 😀
 -->
